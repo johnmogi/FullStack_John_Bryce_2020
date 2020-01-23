@@ -1,0 +1,1 @@
+"# FullStack_John_Bryce_2020"  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/johnmogi/FullStack_John_Bryce_2020.gitgit push -u origin master
