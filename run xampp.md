@@ -1,0 +1,3 @@
+sudo /opt/lampp/manager-linux-x64.run
+
+sudo service mysql stop
